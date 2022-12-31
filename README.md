@@ -12,6 +12,10 @@
 
 
 
+https://user-images.githubusercontent.com/117517571/210133120-837a14f6-f34b-445b-acbd-56d45f2a9844.mp4
+
+
+
 # Useful Resources
  - [React-mde](https://github.com/andrerpena/react-mde.git) - This is the open-source library that help you to add markdown editor in just a matter of minutes.
  - [React-split](https://github.com/nathancahill/split.git) - Used to adjust the size of multiple components relatively (in this case: *Sidebar* and *Editor*).
